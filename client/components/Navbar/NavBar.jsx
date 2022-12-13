@@ -9,6 +9,7 @@ import { Discover, HelpCenter, Profile, Sidebar } from './index';
 import { Button } from '../componentsindex';
 
 
+
 function NavBar() {
   return (
     <div>NavBar</div>
